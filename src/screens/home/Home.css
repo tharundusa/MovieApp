@@ -1,0 +1,22 @@
+.heading{
+    background-color: #ff9999;
+    padding: 8px 8px 8px 8px;
+    text-align: center;
+    font-size: 1rem;   
+}
+.gridList{
+    display: flex;
+    flex-direction: row;
+}
+.flex-container{
+    display: flex;
+}
+.left{
+    width: 76%;
+}
+.right{
+    width: 24%;
+}
+.images{
+    cursor: pointer;
+}

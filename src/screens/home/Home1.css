@@ -1,0 +1,9 @@
+.releasedMovies{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.images{
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
+}
